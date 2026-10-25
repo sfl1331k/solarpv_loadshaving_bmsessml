@@ -1,0 +1,6 @@
+metric,without_EMS,with_EMS
+Peak grid AC power (W),47.83,47.83
+Mean grid AC power (W),30.33,28.49
+Load factor,0.6341,0.5956
+Grid energy (Wh),728.4,684.2
+Minutes above P_lim,1187,861
